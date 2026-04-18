@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>¿Cómo Me Gustaste?</title>
+</head>
+ 
+<body style="background-color: #fff0f5; font-family: Georgia, serif;">
+ 
+<div style="
+width: 60%;
+margin: auto;
+background-color: white;
+padding: 30px;
+border-radius: 15px;
+box-shadow: 0px 0px 15px rgba(0,0,0,0.2);
+">
+ 
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+
+<h1 style="
+color: #d63384;
+text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+font-family: 'Lemon', cursive;
+margin: 0;
+">
+¿CÓMO ME GUSTASTE?
+</h1>
+
+<img src="music.jpg" style="
+width: 40px;
+height: 40px;
+">
+
+</div>
+ 
+<hr style="
+border: none;
+height: 2px;
+background-color: #d63384;
+width: 80%;
+">
+ 
+<p style="
+font-size: 18px;
+color: #555;
+line-height: 1.6;
+text-align: justify;
+">
+<p style="font-size: 18px; color: #555; line-height: 1.6; text-align: justify;">Tenía miedo de volverme a enamorar. No podía volver a dar ese paso… pero luego apareciste tú. Ver cómo me protegías, cómo me consolabas, cómo me escuchabas… cómo me diste ese primer abrazo que vino de ti, cómo dejaste que te pintara tus uñitas, cómo jugábamos y cómo nos burlábamos el uno del otro.
+<p style="font-size: 18px; color: #555; line-height: 1.6; text-align: justify;">Asi que, no sé si fue de un momento a otro… o tal vez sí. Porque, sin darme cuenta, empecé a fijarme más en ti en tu forma de hablar, en tu forma de reír, en esos pequeños detalles que para otros pasan desapercibidos, pero que para mí empezaron a significar mucho. Y fue ahí cuando entendí algo… ya no solo me llamabas la atención, me estabas empezando a gustar de verdad. ME GUSTABA JESUA… ¡NO PUEDE SER!
+<p style="font-size: 18px; color: #555; line-height: 1.6; text-align: justify;">Cuando descubrí que él estaba enamorado de mí, mediante preguntas y pistas, no sabía cómo procesarlo. Era como “¿YO? ¿POR QUÉ YO? ¡NO PUEDE SER, LE GUSTO A JESUA!” Si supieran cuántas veces le decía a mi primo (Adriano/Libetato) que Jesua estaba enamorado de mí y que, posiblemente, yo sentía lo mismo. Era un alboroto de emociones en un pequeño cuerpito. Por eso me quedaba hasta tarde en el parque; me gritaban, pero yo estaba feliz porque pasaba tiempo con él, y les presumía a todos que él me hacía caso en todo (COMO SIEMPRE).
+<p style="font-size: 18px; color: #555; line-height: 1.6; text-align: justify;">Como esa vez que llegué tarde del trabajo y fui al parque. Una niña que tenía su número le escribió porque yo se lo pedí, de la nada pasa Happy y nos pregunta que estamos haciendo "ESPERANDO A JESUA, LE DIJE QUE SALGA" "ÉL NO VA A SALIR, YA ES TARDE, CUANDO ES TARDE NUNCA SALE" y de la nada, SALE JESUA, "VES HAPPY POR MI SALIO", Happy le fue a reclamar, no sé que le dijo pero fue un momento de satisfacccion al ver que Jesua me daba preferencias, jijijiji.
+<p style="font-size: 18px; color: #555; line-height: 1.6; text-align: justify;">Después de muchos días, una noche en la que terminé mi turno del trabajo, Jesua fue a recogerme. Mientras caminábamos a mi casa, hablando de las personas que nos gustaban, hicimos una apuesta, el que se confesara primero ganaba 10 soles. Y así, con un impulso de valor, le dije “Me gustas, Jesua”. YO LO VIII… VI COMO SUS OJITOS BRILLABAN COMO ESTRELLITAS, aunque intentó disimularlo. Ese momento nunca lo voy a olvidar. Luego, por chat, le confirmé que sí me gustaba, porque le había dicho indirectamente en persona (NO FUE MI CULPA, él ño entendió), y el también me dijo que yo le gustaba (YO YA SABIA, TODO POR DEMERICK, CHISMOSO, ARRUINO EL MOMENTO DE JESUA) pero aun así no intentamos nada, ya que yo ya habia dado el primer paso y queria que el diera el siguiente, pero cada que nos veiamos nos poniamos nerviosos.
+<p style="font-size: 18px; color: #555; line-height: 1.6; text-align: justify;">Hasta que llegó el 29 de abril. Le dije que fuera a verme al coliseo porque iba a jugar vóley (En ese entonces no jugaba muy bien, OKEY?). Perdimos, tite, pero no me importó. Después, con ayuda de mi prima y mi mejor amiga, me pude ir con él, hasta cierto lugar y FUIMOS TOMADOS DE LA MANO. Yo estaba MUY nerviosa y lo molestaba diciéndole “Pero no somos nada…”, hasta que llegó el momento de despedirnos y me dijo “¿Sí o no?”. FUE LA MEJOR CONFESIÓN DEL MUNDO… OBVIAMENTE, por los nervios que tenia me agarré la manito, en señal de que aceptaba ser su novia.
+<p style="font-size: 18px; color: #555; line-height: 1.6; text-align: justify;">Así que, un día como hoy, 29 de abril, hace 2 años, a las 7:39, Jesua y yo nos hicimos novios.
+</p>
+ 
+<br>
+ 
+<center>
+<a href="INICIO3.html" style="
+text-decoration: none;
+color: white;
+background-color: #d63384;
+padding: 10px 20px;
+border-radius: 10px;
+">
+Volver
+</a>
+</center>
+ 
+</div>
+ 
+<!-- ?? CORAZONES -->
+<style> 
+.corazon {
+  position: fixed;
+  bottom: 0;
+  color: #ff4e50;
+  font-size: 20px;
+  animation: subir 4s linear forwards;
+}
+ 
+@keyframes subir {
+  0% { transform: translateY(0); opacity: 1; }
+  100% { transform: translateY(-100vh); opacity: 0; }
+}
+</style>
+ 
+<script> 
+setInterval(function() {
+  var c = document.createElement("div");
+  c.className = "corazon";
+  c.innerHTML = "Love";
+  c.style.left = Math.random() * 100 + "vw";
+  document.body.appendChild(c);
+  setTimeout(() => c.remove(), 4000);
+}, 400);
+</script>
+ 
+<audio id="gustar" autoplay loop>
+  <source src= "gustar.mp3" type="audio/mpeg">
+</audio>
+ 
+<script> 
+document.addEventListener("click", function() {
+  document.getElementById("gustar").play();
+});
+</script>
+ 
+</body>
+</html>

@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Razones Por Las Que Te Amo</title>
+</head>
+ 
+<body style="background-color: #fff0f5; font-family: Georgia, serif;">
+
+<div style="
+width: 60%;
+margin: auto;
+background-color: white;
+padding: 30px;
+border-radius: 15px;
+box-shadow: 0px 0px 15px rgba(0,0,0,0.2);
+">
+ 
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+
+<h1 style="
+color: #d63384;
+text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+font-family: 'Lemon', cursive;
+margin: 0;
+">
+RAZONES POR LAS QUE TE AMO
+</h1>
+
+<img src="music.jpg" style="
+width: 40px;
+height: 40px;
+">
+
+</div>
+ 
+<hr style="
+border: none;
+height: 2px;
+background-color: #d63384;
+width: 80%;
+">
+ 
+<br>
+ 
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">1.- Te amo porque apareciste en ese parque sin que yo lo esperara.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">2.- Te amo porque nuestros caminos se cruzaron sin darnos cuenta.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">3.- Te amo porque desde ese primer momento algo empezó sin saberlo.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">4.- Te amo porque aunque no nos hablamos al inicio, el destino nos acercó.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">5.- Te amo porque empezaste a fijarte en mí desde la canchita.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">6.- Te amo porque recuerdas detalles como mi gorrita y las fechas importantes.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">7.- Te amo porque nuestra historia empezó de la forma más simple.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">8.- Te amo porque al inicio te tenía rencor… y míranos ahora.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">9.- Te amo porque cambiaste completamente esa primera impresión.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">10.- Te amo porque decidiste acercarte a mí.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">11.- Te amo porque me hablaste esa noche en el parque.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">12.- Te amo porque me protegias de todas las cosas, hasta de mi misma.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">13.- Te amo porque desde ahí empezamos a conectar.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">14.- Te amo porque te puse un apodo único: “Quechua”.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">15.- Te amo porque aguantaste mi forma de ser desde el inicio.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">16.- Te amo porque querías acercarte a mí.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">17.- Te amo porque tus amigos delataron tus intenciones jsjsj.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">18.- Te amo porque gracias a eso supe lo que sentías.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">19.- Te amo porque poco a poco te volviste importante para mí.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">20.- Te amo porque empezamos siendo solo amigos.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">21.- Te amo porque siempre me dejabas jugar.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">22.- Te amo porque me hacías caso en todo (COMO SIEMPRE).</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">23.- Te amo porque tenías preferencias conmigo.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">24.- Te amo porque me hacías sentir especial sin decirlo.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">25.- Te amo porque buscabas la forma de estar cerca de mí.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">26.- Te amo porque me dabas atención.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">27.- Te amo porque contigo el parque era más divertido.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">28.- Te amo porque hacías mis días mejores.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">29.- Te amo porque me hacía feliz verte.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">30.- Te amo porque empezaste a importarme más de lo normal.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">31.- Te amo porque me hiciste sentir cosas que no entendía.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">32.- Te amo porque me hiciste darme cuenta de que me gustabas.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">33.- Te amo porque hiciste que me emocionara por verte.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">34.- Te amo porque hacías que me quedara más tiempo solo por ti.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">35.- Te amo porque era y soy tu preferida.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">36.- Te amo porque me hacías sentir orgullosa de ti.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">37.- Te amo porque me dabas motivos para sonreír.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">38.- Te amo porque contigo todo se sentía diferente.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">39.- Te amo porque me hacías sentir nerviosa.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">40.- Te amo porque me hacías feliz con tan poco.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">41.- Te amo porque saliste esa noche solo porque yo lo pedí.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">42.- Te amo porque me hiciste sentir importante frente a todos.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">43.- Te amo porque me dabas mi lugar.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">44.- Te amo porque me elegías sin decirlo.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">45.- Te amo porque me demostrabas interés con acciones.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">46.- Te amo porque siempre estabas ahí.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">47.- Te amo porque nunca me ignorabas.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">48.- Te amo porque hacías cosas por mí.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">49.- Te amo porque me hacías sentir única.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">50.- Te amo porque me hacías feliz sin darte cuenta.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">51.- Te amo porque fuiste a recogerme después del trabajo.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">52.- Te amo porque caminamos juntos hablando de todo.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">53.- Te amo porque hicimos esa apuesta de los 10 soles.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">54.- Te amo porque me diste valor sin saberlo.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">55.- Te amo porque fui capaz de decirte “me gustas”.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">56.- Te amo porque vi tus ojitos brillar.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">57.- Te amo porque ese momento fue único.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">58.- Te amo porque nunca olvidaré tu reacción.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">59.- Te amo porque me hiciste sentir especial ese día.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">60.- Te amo porque desde ahí todo cambió.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">61.- Te amo porque nos poníamos nerviosos al vernos.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">62.- Te amo porque era algo tan bonito e inocente.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">63.- Te amo porque poco a poco fuimos avanzando.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">64.- Te amo porque todo se dio a su tiempo.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">65.- Te amo porque nuestra relación sigue después de todo</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">66.- Te amo porque no forzamos nada.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">67.- Te amo porque todo fluyó entre nosotros.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">68.- Te amo porque cada momento valió la pena.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">69.- Te amo porque cada recuerdo es especial.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">70.- Te amo porque contigo todo tiene sentido.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">71.- Te amo porque fuiste a verme jugar vóley.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">72.- Te amo porque estuviste ahí apoyándome.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">73.- Te amo porque no te importó si perdí.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">74.- Te amo porque caminamos juntos ese día.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">75.- Te amo porque nos agarramos de la mano.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">76.- Te amo porque sentí algo único en ese momento.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">77.- Te amo porque me hiciste sentir segura.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">78.- Te amo porque estabas conmigo.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">79.- Te amo porque hiciste ese día inolvidable.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">80.- Te amo porque todo fue perfecto a tu lado.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">81.- Te amo porque me preguntaste “¿sí o no?”.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">82.- Te amo porque fue la mejor confesión.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">83.- Te amo porque hiciste ese momento especial.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">84.- Te amo porque me elegiste.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">85.- Te amo porque te elegí.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">86.- Te amo porque empezamos algo tan bonito.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">87.- Te amo porque desde ese día somos nosotros.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">88.- Te amo porque construimos algo real.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">89.- Te amo porque seguimos juntos.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">90.- Te amo porque nuestro amor crece cada día.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">91.- Te amo porque me haces sentir amada.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">92.- Te amo porque me haces sentir segura.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">93.- Te amo porque me haces feliz.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">94.- Te amo porque eres mi tranquilidad.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">95.- Te amo porque eres mi alegría.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">96.- Te amo porque eres mi lugar seguro.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">97.- Te amo porque eres parte de mi vida.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">98.- Te amo porque eres parte de mí.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">99.- Te amo porque siempre te elegiría.</p>
+<p style=" font-size: 18px; color: #555; line-height: 1.0; text-align: justify; ">100.- Te amo porque eres tú… y siempre serás tú.</p>
+
+ 
+<br>
+ 
+<center>
+<a href="INICIO3.html" style="
+text-decoration: none;
+color: white;
+background-color: #d63384;
+padding: 10px 20px;
+border-radius: 10px;
+">
+Volver
+</a>
+</center>
+ 
+</div>
+ 
+<!-- ?? CORAZONES -->
+<style> 
+.corazon {
+  position: fixed;
+  bottom: 0;
+  color: #ff4e50;
+  font-size: 20px;
+  animation: subir 5s linear forwards;
+}
+ 
+@keyframes subir {
+  0% { transform: translateY(0); opacity: 1; }
+  100% { transform: translateY(-100vh); opacity: 0; }
+}
+</style>
+ 
+<script> 
+setInterval(function() {
+  var c = document.createElement("div");
+  c.className = "corazon";
+  c.innerHTML = "Love";
+  c.style.left = Math.random() * 100 + "vw";
+  document.body.appendChild(c);
+  setTimeout(() => c.remove(), 5000);
+}, 500);
+</script>
+ 
+<audio id="Raz" autoplay loop>
+  <source src="Raz.mp3" type="audio/mpeg">
+</audio>
+ 
+<script> 
+document.addEventListener("click", function() {
+  document.getElementById("Raz").play();
+});
+</script>
+ 
+</body>
+</html>

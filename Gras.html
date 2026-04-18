@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Gracias Por Todo</title>
+</head>
+ 
+<body style="background-color: #fff0f5; font-family: Georgia, serif;">
+ 
+<div style="
+width: 60%;
+margin: auto;
+background-color: white;
+padding: 30px;
+border-radius: 15px;
+box-shadow: 0px 0px 15px rgba(0,0,0,0.2);
+">
+ 
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+
+<h1 style="
+color: #d63384;
+text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+font-family: 'Lemon', cursive;
+margin: 0;
+">
+GRACIAS POR TODO
+</h1>
+
+<img src="music.jpg" style="
+width: 40px;
+height: 40px;
+">
+
+</div>
+
+<hr style="
+border: none;
+height: 2px;
+background-color: #d63384;
+width: 80%;
+">
+ 
+<br>
+ 
+<img src="GRACIAS.JPG" style="
+width: 60%;
+height: 250px;
+object-fit: cover;
+border-radius: 15px;
+display: block;
+margin: auto;
+box-shadow: 0px 0px 10px rgba(0,0,0,0.2);
+">
+ 
+<br><br>
+ 
+<p style="font-size: 18px; color: #555; line-height: 1.6; text-align: justify;">Al final de TODO esto, quiero que sepas lo importante que eres para mí… porque aunque a veces me cueste expresarme directamente en palabras lo que siento, yo sé que lo que siento por ti es algo muy real. Apareciste en mi vida de manera inesperada, sin avisar, sin hacer ruido… y poco a poco te fuiste quedando, hasta convertirte en alguien que hoy en día significa muto para mí. 
+<p style="font-size: 18px; color: #555; line-height: 1.6; text-align: justify;">No fue algo que sucedió de la noche a la mañana. Fue a través de pequeños momentos, de miradas, de risas, de conversaciones que parecían simples pero que terminaron teniendo un significado mucho más profundo. Sin darme cuenta, comenzaste a ser parte de mis pensamientos, de mis días… y de mi corazón. Y cuando me di cuenta, ya no eras solo alguien más, sino ya eras alguien que no quería perder. 
+<p style="font-size: 18px; color: #555; line-height: 1.6; text-align: justify;">Contigo aprendí que el amor no es perfecto, que no siempre es fácil, que hay días buenos y días difíciles, pero que cuando es verdadero… se siente diferente. Se siente tranquilo, se siente seguro, se siente real. Me haces sentir querida, me haces sentir en paz, me haces sentir que puedo ser yo misma sin miedo, sin filtros, sin tener que aparentar algo que no soy.
+<p style="font-size: 18px; color: #555; line-height: 1.6; text-align: justify;">Y eso tiene un valor inmenso… porque no es fácil encontrar a alguien con quien puedas ser completamente tú, con quien puedas hablar sin pensar demasiado, con quien puedas reír sin control y también quedarte en silencio sin que se sienta incómodo. Tú eres eso para mí… alguien que llegó y se convirtió en mi hogar.
+<p style="font-size: 18px; color: #555; line-height: 1.6; text-align: justify;">Hay muchas cosas que tal vez no sé expresar, pero las siento en cada rincón. En cómo pienso en ti sin darme cuenta, en cómo me importas más de lo que imaginé, en cómo me preocupo por ti, en cómo quiero saber de ti, en cómo me afecta lo que te sucede. Porque no eres solo alguien importante… eres alguien que ha dejado huella en mi vida.
+<p style="font-size: 18px; color: #555; line-height: 1.6; text-align: justify;">Y a veces me pongo a reflexionar sobre todo lo que hemos vivido, sobre cómo comenzó todo, sobre lo que somos ahora… y sobre todo lo que aún nos queda por vivir. Y en medio de todo eso, hay algo que tengo muy claro "quiero seguir contigo". Quiero seguir construyendo todo esto, quiero seguir eligiéndote, incluso cuando no sea fácil, incluso cuando surjan dudas o desafíos.
+<p style="font-size: 18px; color: #555; line-height: 1.6; text-align: justify;">Quiero seguir siendo parte de tu vida, en tus triunfos y en tus tropiezos. Deseo que nuestra conexión no se limite a lo que somos hoy, sino que se expanda a todo lo que podemos llegar a ser juntos.
+<p style="font-size: 18px; color: #555; line-height: 1.6; text-align: justify;">Y si alguna vez te sientes inseguro sobre lo que significas para mí, quiero que recuerdes esto "no fue pura casualidad que llegaste a mi vida… y tampoco es casualidad que te hayas quedado. Porque entre tantas personas, tantas historias y tantas posibilidades… tú te has convertido en alguien que no quiero dejar ir".
+<p style="font-size: 18px; color: #555; line-height: 1.6; text-align: justify;">Al final, más allá de todo… eres tú. Y siempre serás tú.
+<br>
+ 
+<center>
+<a href="INICIO3.html" style="
+text-decoration: none;
+color: white;
+background-color: #d63384;
+padding: 10px 20px;
+border-radius: 10px;
+">
+Volver
+</a>
+</center>
+ 
+</div>
+ 
+<!-- ?? CORAZONES -->
+<style> 
+.corazon {
+  position: fixed;
+  bottom: 0;
+  color: #ff4e50;
+  font-size: 20px;
+  animation: subir 5s linear forwards;
+}
+ 
+@keyframes subir {
+  0% { transform: translateY(0); opacity: 1; }
+  100% { transform: translateY(-100vh); opacity: 0; }
+}
+</style>
+ 
+<script> 
+setInterval(function() {
+  var c = document.createElement("div");
+  c.className = "corazon";
+  c.innerHTML = "Love";
+  c.style.left = Math.random() * 100 + "vw";
+  document.body.appendChild(c);
+  setTimeout(() => c.remove(), 5000);
+}, 500);
+</script>
+ 
+<audio id="Cancion" autoplay loop>
+  <source src="Cancion.mp3" type="audio/mpeg">
+</audio>
+ 
+<script> 
+document.addEventListener("click", function() {
+  document.getElementById("Cancion").play();
+});
+</script>
+ 
+</body>
+</html>

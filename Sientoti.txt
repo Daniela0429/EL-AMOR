@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Lo Que Siento por Ti</title>
+</head>
+ 
+<body style="background: linear-gradient(#fff0f5, #ffe4e1); font-family: Georgia, serif;">
+ 
+<div style="
+width: 65%;
+margin: auto;
+background-color: white;
+padding: 40px;
+border-radius: 20px;
+box-shadow: 0px 0px 20px rgba(0,0,0,0.2);
+text-align: center;
+
+">
+ 
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+
+<h1 style="
+color: #d63384;
+text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+font-family: 'Lemon', cursive;
+margin: 0;
+">
+LO QUE SIENTO POR TI
+</h1>
+
+<img src="music.jpg" style="
+width: 40px;
+height: 40px;
+">
+
+</div>
+<hr style="border: none; height: 2px; background-color: #d63384; width: 70%;">
+ 
+<br>
+ 
+<img src="SIENTO2.JPG" style="
+width: 60%;
+height: 250px;
+object-fit: cover;
+border-radius: 15px;
+box-shadow: 0px 0px 10px rgba(0,0,0,0.3);
+">
+ 
+<br><br>
+ 
+<p style="font-size: 19px; color: #555; line-height: 1.7; text-align: justify;">Lo que siento por ti es algo TAN, pero TAAAN GRANDE, que como tú dices, con un “ME GUSTAS” o un “TE AMO” no es suficiente para expresar el GRAN amor que siento por ti. Es algo que, con tan solo hablar contigo, es sentir como todo mi mundo desaparezca y que TODO mi ser esté pendiente solo de ti. Tan solo verte unos segundos es hacerme divagar en mi mente en muchas situaciones que anhelo vivirlas contigo, y tomarte de la mano es sentir que puedo caminar contigo el resto de mi vida y afrontar todo lo que Dios nos ponga en el camino.
+<p style="font-size: 19px; color: #555; line-height: 1.7; text-align: justify;">Verte a los ojos es sentir como viajo a universos maravillosos que el ser humano muchas veces no alcanza. Besarte es sentir de verdad esas mariposas en el estómago. Sentarme a tu lado es sentirme protegida, saber que nada ni nadie puede hacerme daño. Reírme contigo es sentir que no importa dónde esté ni qué esté pasando, porque con tus risas la tiniebla desaparece. Estar abrazados y escuchar tu corazón es como oír una melodía de amor hecha solamente para mí, y jugar contigo es como entrar en una competencia que nunca terminaría, por lo competitivos que somos.
+<p style="font-size: 19px; color: #555; line-height: 1.7; text-align: justify;">Son MUCHAS cosas que, si las pusiera todas en este texto, no tendría final. Todo lo que me haces sentir es maravilloso, encantador, arropador y reconfortante. En serio, haber llegado mutuamente a nuestras vidas es algo que ambos necesitábamos, necesitábamos a ese/a compañero que nos sacará ese gran amor que teníamos guardado y sé que este sentimiento sigue creciendo cada vez más. Nada ni nadie, excepto nosotros, puede detener el amor que nos tenemos.
+<p style="font-size: 19px; color: #555; line-height: 1.7; text-align: justify;">Te amo con toda mi alma… Te amo, Jesua. Te amo de verdad. 
+</p>
+ 
+<br>
+ 
+<a href="INICIO3.html" style="
+text-decoration: none;
+color: white;
+background-color: #d63384;
+padding: 12px 25px;
+border-radius: 10px;
+font-size: 16px;
+">
+Volver
+</a>
+ 
+</div>
+ 
+<!-- ?? CORAZONES -->
+<style> 
+.corazon {
+  position: fixed;
+  bottom: 0;
+  color: #ff4e50;
+  font-size: 20px;
+  animation: subir 5s linear forwards;
+}
+ 
+@keyframes subir {
+  0% { transform: translateY(0); opacity: 1; }
+  100% { transform: translateY(-100vh); opacity: 0; }
+}
+</style>
+ 
+<script> 
+setInterval(function() {
+  var c = document.createElement("div");
+  c.className = "corazon";
+  c.innerHTML = "Love";
+  c.style.left = Math.random() * 100 + "vw";
+  document.body.appendChild(c);
+  setTimeout(() => c.remove(), 5000);
+}, 400);
+</script>
+ 
+<audio id="Siento3" autoplay loop>
+  <source src="Siento3.mp3" type="audio/mpeg">
+</audio>
+ 
+<script> 
+document.addEventListener("click", function() {
+  document.getElementById("Siento3").play();
+});
+</script>
+ 
+</body>
+</html>

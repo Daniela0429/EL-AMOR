@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>¿Cómo Te Conocí?</title>
+</head>
+ 
+<body style="background-color: #fff0f5; font-family: Georgia, serif;">
+ 
+<div style="
+width: 60%;
+margin: auto;
+background-color: white;
+padding: 30px;
+border-radius: 15px;
+box-shadow: 0px 0px 15px rgba(0,0,0,0.2);
+">
+ 
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+
+<h1 style="
+color: #d63384;
+text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+font-family: 'Lemon', cursive;
+margin: 0;
+">
+¿CÓMO TE CONOCÍ?
+</h1>
+
+<img src="music.jpg" style="
+width: 40px;
+height: 40px;
+">
+
+</div>
+ 
+<audio id="conoci" autoplay loop>
+  <source src= "conoci.mp3" type="audio/mpeg">
+</audio>
+ 
+<script> 
+document.addEventListener("click", function() {
+  document.getElementById("conoci").play();
+});
+</script>
+ 
+<hr style="
+border: none;
+height: 2px;
+background-color: #d63384;
+width: 80%;
+">
+ 
+<p style="font-size: 18px; color: #555; line-height: 1.6; text-align: justify;">
+
+<p style="font-size: 18px; color: #555; line-height: 1.6; text-align: justify;">TODO ESTA HISTORIA EMPEZÓ UN 31 DE DICIEMBRE, cuando estaba poniendo en la tierra un silbador (cohete) y vi desde lejos, donde se alcanzaba a ver un poco el parque… el dichoso parque Takora. Vi un grupito de chicos, como yo lo llamo, “un grupo de pirañitas”. Ahí estaba Jesua, pero ni él ni yo nos habíamos visto en ese momento, solo se habían cruzado nuestros caminos.
+
+
+
+<p style="font-size: 18px; color: #555; line-height: 1.6; text-align: justify;">Después de ese momento, un 10 de enero, fui obligada a ir al parque por mi primo (Adriano/Libetato). Ahí estaba Jesua, jugando en la canchita. Llevaba puesto su polito amarillito (ahora no le gusta ese polo), y yo estaba con una gorrita morada (cosas que ambos recordamos de la primera vez que nos vimos).
+
+En ese instante, Jesua empezó a sentir una atracción hacia mí, pero no intentó nada porque pensó que era MUCHO menos para él (PUES NO LO ERA -_-). Por otro lado, yo le tenía rencor, porque pensé que era uno de esos niños que molestaban a mi hermano.
+
+
+
+<p style="font-size: 18px; color: #555; line-height: 1.6; text-align: justify;">Después de ese día, una vez un niño me estaba gritando para que no juegue, ahi recién Jesua descubrió que yo era mayor que él, ya que le grité al niño que no me debía gritar porque era mayor que él (yo no me dejaba). Ahí recién intentó acercarse a mí.
+
+
+
+<p style="font-size: 18px; color: #555; line-height: 1.6; text-align: justify;">Una noche, mientras estaba jugando con las niñitas del parque, Jesua se me acerca a hablarme y, de la nada, me cuenta TODA su vida. ¿DE LA NADA? Chi. Esa noche fue nuestra primera conversación, y desde ahí empecé a llamarlo “QUECHUA”. ¿Quién le manda a tener un nombre complicadito de rimar?
+
+
+
+<p style="font-size: 18px; color: #555; line-height: 1.6; text-align: justify;">Bueno, después de esa conversación no sabía cómo acercarme a él, porque yo sí quería tener amiguitos jsjsjs, pero Jesua iba con otra intención. Lo descubrí más por sus amigos, An escuchado el dicho: “Con amigos así, ¿para qué enemigos?”
+
+, bueno sus dichosos amigos (NEGLO, DEMERICK, NO ME ACUERDO EL OTRO, Happy o Maycelo?) se dieron cuenta de las intenciones de Jesua y empezaron a investigarme, haciéndome preguntas MUY directas. En ese momento pensé: “MUY DIRECTOS, yo vine a jugar, no a un interrogatorio”, me decian cosas como "¿Crees que Jesua es un buen tipo? ¿TE PARECE GUAPO JESUA? ¿TE VERIAS CON ÉL?", pero me sirvio un poco ese interrogatorio, ya que me di cuenta de que Jesua no tenia novia, porque yo pensé que tenia, ya que tenia un liga de cabello rosado forforecente y resulta que era de su "mejor amiga" (POR QUÉ TENIA QUE TENER ESA LIGA?).
+
+<p style="font-size: 18px; color: #555; line-height: 1.6; text-align: justify;">Luego de todas esas preguntas, a los días siguientes me di cuenta de que si Jesua o Demerick (cabeza de huevo) no jugaban, la mayoría de los niños tampoco lo hacía. 
+
+Así que me acerqué más a Jesua… A ROGARLE para jugar (AHORA EL QUE RUEGA ES ÉL). Ahí los niños se daban cuenta de que Jesua tenía muchas preferencias hacia mí. OBVIO, la niña solo quería jugar. La cosa es que SIEMPRE que quería jugar, Jesua aceptaba.Por uno de esos tantos juegos, YO me salgo rompiendo mi short, ÑOOOOO, no me habia dado cuenta de que estaba roto, MUY ROTO, Jesua se habia dado cuenta, y a la primera que me sente, me dice "esta roto tu short", quede ROJA, lo peor es que nadie me queria emprestar tu chompa y Jesua estaba con un polo con huequitos, al ver que nadie me daba, le digo a Jesua que me de su polo, quelo doblo y no se me ve, ahi fue mi héroe y ganó puntos. 
+
+
+<p style="font-size: 18px; color: #555; line-height: 1.6; text-align: justify;">Y así… ese fue el comienzo de una gran "amistad?".
+</p>
+
+<br>
+ 
+<center>
+<a href="INICIO3.html" style="
+text-decoration: none;
+color: white;
+background-color: #d63384;
+padding: 10px 20px;
+border-radius: 10px;
+">
+Volver
+</a>
+</center>
+ 
+<!-- ?? CORAZONES -->
+<style> 
+.corazon {
+  position: fixed;
+  bottom: 0;
+  color: #ff4e50;
+  font-size: 20px;
+  animation: subir 4s linear forwards;
+}
+ 
+@keyframes subir {
+  0% { transform: translateY(0); opacity: 1; }
+  100% { transform: translateY(-100vh); opacity: 0; }
+}
+</style>
+ 
+<script> 
+setInterval(function() {
+  var c = document.createElement("div");
+  c.className = "corazon";
+  c.innerHTML = "Love";
+  c.style.left = Math.random() * 100 + "vw";
+  document.body.appendChild(c);
+  setTimeout(() => c.remove(), 4000);
+}, 400);
+</script> 
+ 
+</div>
+ 
+</body>
+</html>?
