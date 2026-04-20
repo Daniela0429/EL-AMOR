@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Lo Que Quiero Vivir Contigo</title>
+</head>
+ 
+<body style="background-color: #fff0f5; font-family: Georgia, serif;">
+ 
+<div style="
+width: 60%;
+margin: auto;
+background-color: white;
+padding: 30px;
+border-radius: 15px;
+box-shadow: 0px 0px 15px rgba(0,0,0,0.2);
+">
+
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+
+<h1 style="
+color: #d63384;
+text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+font-family: 'Lemon', cursive;
+margin: 0;
+">
+¿CÓMO ME GUSTASTE?
+</h1>
+
+<img src="musica.jpg" style="
+width: 40px;
+height: 40px;
+">
+
+</div>
+ 
+<hr style="
+border: none;
+height: 2px;
+background-color: #d63384;
+width: 80%;
+">
+
+ 
+<br>
+ 
+<img src="VIVIR.JPG" style="
+width: 60%;
+height: 250px;
+object-fit: cover;
+border-radius: 15px;
+display: block;
+margin: auto;
+box-shadow: 0px 0px 10px rgba(0,0,0,0.2);
+">
+ 
+<br><br>
+ 
+<p style="font-size: 18px; color: #555; line-height: 1.6; text-align: justify;">Quiero vivir contigo una vida entera y si por mi fuera miles de más, no solo momentos sino que cada recuerdo importante que tenga, estés tú ahí, siendo parte de él, y que algún día, cuando miremos atrás, podamos decir que lo más bonito que nos pasó… fue habernos conocido. En serio yo no quiero algo pasajero, quiero algo que se quede, que crezca, que dure para siempre, en los días buenos donde todo es risa y risa, pero también en los días difíciles, donde tengamos miedo, quiero que ambos estemos apoyándonos.
+
+<p style="font-size: 18px; color: #555; line-height: 1.6; text-align: justify;">También quiero vivir contigo Todo lo que soñamos, TODO lo que hablamos como es, ir verte en tu fiesta de promo, poder acompañarnos todos los días, prepararnos nuestras comidas favoritas, vernos terminar la universidad, que tú me veas cumplir mis metas y yo los tuyos, celebrar nuestros logros como si fueran uno solo. Quiero que llegue el momento en que podamos recogernos mutuamente después de un día largo, sabiendo que siempre volvemos el uno al otro. Quiero una casita contigo, llena de nuestras risas, de bulla y de pequeños pasitos como es nuestra mini Dani, una pequeña parte de nosotros, alguien que lleve un poquito de ti (como son tus pestañitas) y un poquito de mí, a la cual podremos contarles de como nos conocimos, de como seguimos juntos y definitivamente de cuantas veces hablamos en tenerla.
+<p style="font-size: 18px; color: #555; line-height: 1.6; text-align: justify;">En serio, pero EN SERIO quiero caminar contigo inluco cuando el camino no sea fácil, cuando nos quieran separa, cuando nos alejan más y más, solo quiero sostener tu mano cuando todo se vuelva incierto, y quedarme incluso cuando sea más sencillo irse. Porque lo que siento por ti no es algo pasajero sino algo que crece, quede y que vive en mí. Si alguna vez me preguntan de nuevo qué es lo que quiero en la vida, ya sé la respuesta. No tengo ninguna duda: quiero una vida contigo. Entre todas las cosas que podrían pasar, siempre te elegiré a ti.
+<br>
+ 
+<center>
+<a href="INICIO3.html" style="
+text-decoration: none;
+color: white;
+background-color: #d63384;
+padding: 10px 20px;
+border-radius: 10px;
+">
+Volver
+</a>
+</center>
+ 
+</div>
+ 
+<!-- ?? CORAZONES -->
+<style> 
+.corazon {
+  position: fixed;
+  bottom: 0;
+  color: #ff4e50;
+  font-size: 20px;
+  animation: subir 5s linear forwards;
+}
+ 
+@keyframes subir {
+  0% { transform: translateY(0); opacity: 1; }
+  100% { transform: translateY(-100vh); opacity: 0; }
+}
+</style>
+ 
+<script> 
+setInterval(function() {
+  var c = document.createElement("div");
+  c.className = "corazon";
+  c.innerHTML = "Love";
+  c.style.left = Math.random() * 100 + "vw";
+  document.body.appendChild(c);
+  setTimeout(() => c.remove(), 5000);
+}, 500);
+</script>
+ 
+<audio id="Vir1" autoplay loop>
+  <source src="Vir1.mp3" type="audio/mpeg">
+</audio>
+ 
+<script> 
+document.addEventListener("click", function() {
+  document.getElementById("Vir1").play();
+});
+</script>
+ 
+</body>
+</html>
